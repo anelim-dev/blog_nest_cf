@@ -2,29 +2,29 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-# Ejecutar en desarrollo
+# Executes in development
 
-1. Clonar el repositorio de github
-2. Ejecutar
+1. Clone the repository
+2. Execute:
 ```
 yarn install
 ```
-3. Tener Nest CLI instalado o instalar
+3. Install Nest CLI 
 
 ```
 npm i -g @nestjs/cli
 ```
 
-4. Levantar la base de datos
+4. Upload the database
 ```
 docker-compose up -d
 ```
 
-5. Ejecutar la aplicación en dev:
+5. Execute the app in dev
 ```
 yarn start:dev
 ```
 
-## Stack usado
+## Stack
 * MongoDB
 * Nest
