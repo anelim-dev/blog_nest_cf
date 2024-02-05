@@ -20,7 +20,7 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
-7. Ejecutar la aplicación en dev:
+5. Ejecutar la aplicación en dev:
 ```
 yarn start:dev
 ```
