@@ -9,10 +9,10 @@ This final project for the **CF Backend JavaScript Bootcamp** showcases a Nest.j
 
 ### **Versions**
 
-| Version |    Feature    | Description |
-|---|---|---|
-| 1.0.0 | Deliver Initial Release | Deliverable presented for revision. |
-| 1.0.1 | Improves READ.me | Improves the explanation of the project. |
+ | Version | Feature                  | Description                                  | Date       |
+   |---------|--------------------------|----------------------------------------------|------------|
+   | 1.0.0   | Deliver Initial Release  | Deliverable presented for revision.          | 05-02-2024 |
+   | 1.0.1   | Improves README          | Improves the explanation of the project.    | 14-02-2024 |
 
 ### **Installing in dev environment**
 
